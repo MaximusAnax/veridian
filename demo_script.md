@@ -1,4 +1,4 @@
-# **Ramp Identity — Demo Script**
+# **Veridian — Demo Script**
 
 **"Trust Is The Infrastructure"**
 

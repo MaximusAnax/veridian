@@ -38,7 +38,7 @@ npm run lint     # oxlint
 
 | Priority | File | Why |
 |----------|------|-----|
-| 1 | [`demo_script.md`](demo_script.md) | Spoken stage script (~7 min). Parts 1–6, delivery checklist, Ramp policy-agent reframe in Part 3. **Authoritative for what the demo should feel like.** Note: script title may still say “Ramp Identity”; in-app product name is **Veridian**. |
+| 1 | [`demo_script.md`](demo_script.md) | Spoken stage script (~7 min). Parts 1–6, delivery checklist, Ramp policy-agent reframe in Part 3. **Authoritative for what the demo should feel like.** |
 | 2 | [`README.md`](README.md) | One-page run + demo path + stack |
 | 3 | [`idea_overview.md`](idea_overview.md) | Strategy / positioning doc (Veridian as financial identity for AI workers; Ramp-as-company sections are intentional) |
 | 4 | [`mvp_demo_spec.md`](mvp_demo_spec.md) | Original detailed MVP/demo implementation spec (tracked in git; restore if missing locally: `git checkout HEAD -- mvp_demo_spec.md`) |
